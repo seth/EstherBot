@@ -5,5 +5,5 @@
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back.",
     "NEW LICENSE": "Roger that, I'll cook up a new license for you. Just a minute",
-    "DOCS": "here's a link for the docs. %[docs](https://docs.chef.io/release/delivery/)"
+    "DOCS": "here's a link for the docs. [docs](https://docs.chef.io/release/delivery/)"
 }
