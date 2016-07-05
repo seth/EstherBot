@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there! I’m the Delivery bot.\nHere are some things I can help you with: Want a %[new license](postback:new license)? Would you like to know where the %[docs](postback:docs) are located?",
+    "BOT": "Hi there! I’m the Delivery bot.\nHere are some things I can help you with: Want a %[new license](postback:new_license)? Would you like to know where the %[docs](postback:docs) are located?",
     "HELLO": "Ohai! Say %[bot](postback:bot) for a summary",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
