@@ -4,6 +4,6 @@
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back.",
-    "LICENSE": "Roger that, I'll cook up a new license for you. Just a minute",
+    "NEW LICENSE": "Roger that, I'll cook up a new license for you. Just a minute",
     "DOCS": "here's %[a link](https://docs.chef.io/release/delivery/) for the docs"
 }
