@@ -1,9 +1,9 @@
 {
-    "BOT": "Hi there! I’m the Delivery bot.\nHere are some things I can help you with: Want a %[new license](postback:new_license)? Would you like to know where the %[docs](postback:docs) are located?",
+    "BOT": "Hi there! I’m the Delivery bot.\nHere are some things I can help you with: Want a NEW LICENSE? Would you like to know where the DOCS are located?",
     "HELLO": "Ohai! Say %[bot](postback:bot) for a summary",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back.",
     "NEW LICENSE": "Roger that, I'll cook up a new license for you. Just a minute",
-    "DOCS": "here's %[a link](https://docs.chef.io/release/delivery/) for the docs"
+    "DOCS": "here's a link for the docs. %[docs](https://docs.chef.io/release/delivery/)"
 }
