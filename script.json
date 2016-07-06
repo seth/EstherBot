@@ -2,6 +2,7 @@
     "BOT": "Hi there! I’m the Delivery bot.\nHere are some things I can help you with: Want a NEW LICENSE? Would you like to know where the DOCS are located?",
     "HELLO": "Ohai! Say %[bot](postback:bot) for a summary",
     "OHAI": "Greetings! I'm the Delivery bot. It's nice to meet you. I can help you access documentation for Delivery or obtain a license to try out Delivery yourself. %[new license](postback:new_license) %[docs](postback:docs)",
+    "CHAI": "I'd love some tea, but maybe you meant, ohai?",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back.",
